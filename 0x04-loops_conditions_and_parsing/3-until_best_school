@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#This outputs string 10 times
+i=10
+until [ "$i" ]; do
+  echo "Best School"
+  
+done
