@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# print out hi at line 9
+i=0
+while [ $i -lt 10 ]
+do
+echo "Best School"
+i=$((i + 1))
+if (( i==9 ))
+then
+echo 'Hi'
+else
+echo 'Best School'
+fi
+done
