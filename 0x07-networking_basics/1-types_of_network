@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# This script contains an answer to questions about the OSI model.
+#Questions and answer choices:
+#What type of network a computer in local is connected to?
+#1.Internet
+#2.WAN
+#3.LAN
+answer0=3
+echo $answer0
+#What type of network could connect an office in one building to another office in a building a few streets away?
+#1.Internet
+#2.WAN
+#3.LAN
+answer1=2
+echo $answer1
+#What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
+#1.Internet
+#2.WAN
+#3.LAN
+answer2=1
+echo $answer2
